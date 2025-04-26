@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Demazdotnet1.props" />
+</Project>
